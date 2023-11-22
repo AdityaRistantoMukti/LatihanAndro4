@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">APK4</string>
+    <string name="dialog_message">Welcome to AlertDialog</string>
+    <string name="dialog_title">FYC Alert Dialog</string>
+</resources>
